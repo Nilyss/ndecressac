@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ndecressac/static/css/main.c4ec5e9d.css",
+    "main.css": "/ndecressac/static/css/main.bef396e6.css",
     "main.js": "/ndecressac/static/js/main.7b33aec8.js",
     "static/media/groupomania.webp": "/ndecressac/static/media/groupomania.bf9807d0bd2a725a9968.webp",
     "static/media/pp.webp": "/ndecressac/static/media/pp.7d267b67a2377f0d1df7.webp",
@@ -12,11 +12,11 @@
     "index.html": "/ndecressac/index.html",
     "static/media/arrow-right.svg": "/ndecressac/static/media/arrow-right.6b74ba10625d7db51dc4.svg",
     "static/media/arrow-left.svg": "/ndecressac/static/media/arrow-left.43016064f1d86a4d1b0b.svg",
-    "main.c4ec5e9d.css.map": "/ndecressac/static/css/main.c4ec5e9d.css.map",
+    "main.bef396e6.css.map": "/ndecressac/static/css/main.bef396e6.css.map",
     "main.7b33aec8.js.map": "/ndecressac/static/js/main.7b33aec8.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4ec5e9d.css",
+    "static/css/main.bef396e6.css",
     "static/js/main.7b33aec8.js"
   ]
 }
