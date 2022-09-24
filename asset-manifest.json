@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ndecressac/static/css/main.bef396e6.css",
-    "main.js": "/ndecressac/static/js/main.7b33aec8.js",
-    "static/media/groupomania.webp": "/ndecressac/static/media/groupomania.bf9807d0bd2a725a9968.webp",
-    "static/media/pp.webp": "/ndecressac/static/media/pp.7d267b67a2377f0d1df7.webp",
-    "static/media/ohmyfood.webp": "/ndecressac/static/media/ohmyfood.9dfc0065293737c2ea99.webp",
-    "static/media/kanap.webp": "/ndecressac/static/media/kanap.bdb4e9c71e5cfe00c907.webp",
-    "static/media/bg2.webp": "/ndecressac/static/media/bg2.9ce29057178733c2ec00.webp",
-    "static/media/bg.webp": "/ndecressac/static/media/bg.22f34fea0b8e8bff119c.webp",
-    "static/media/piiquante.webp": "/ndecressac/static/media/piiquante.57b2b061e61341b54ac2.webp",
-    "index.html": "/ndecressac/index.html",
-    "static/media/arrow-right.svg": "/ndecressac/static/media/arrow-right.6b74ba10625d7db51dc4.svg",
-    "static/media/arrow-left.svg": "/ndecressac/static/media/arrow-left.43016064f1d86a4d1b0b.svg",
-    "main.bef396e6.css.map": "/ndecressac/static/css/main.bef396e6.css.map",
-    "main.7b33aec8.js.map": "/ndecressac/static/js/main.7b33aec8.js.map"
+    "main.css": "/static/css/main.003ddb8c.css",
+    "main.js": "/static/js/main.5644b83a.js",
+    "static/media/groupomania.webp": "/static/media/groupomania.bf9807d0bd2a725a9968.webp",
+    "static/media/pp.webp": "/static/media/pp.7d267b67a2377f0d1df7.webp",
+    "static/media/ohmyfood.webp": "/static/media/ohmyfood.9dfc0065293737c2ea99.webp",
+    "static/media/kanap.webp": "/static/media/kanap.bdb4e9c71e5cfe00c907.webp",
+    "static/media/bg2.webp": "/static/media/bg2.9ce29057178733c2ec00.webp",
+    "static/media/bg.webp": "/static/media/bg.22f34fea0b8e8bff119c.webp",
+    "static/media/piiquante.webp": "/static/media/piiquante.57b2b061e61341b54ac2.webp",
+    "index.html": "/index.html",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.6b74ba10625d7db51dc4.svg",
+    "static/media/arrow-left.svg": "/static/media/arrow-left.43016064f1d86a4d1b0b.svg",
+    "main.003ddb8c.css.map": "/static/css/main.003ddb8c.css.map",
+    "main.5644b83a.js.map": "/static/js/main.5644b83a.js.map"
   },
   "entrypoints": [
-    "static/css/main.bef396e6.css",
-    "static/js/main.7b33aec8.js"
+    "static/css/main.003ddb8c.css",
+    "static/js/main.5644b83a.js"
   ]
 }
